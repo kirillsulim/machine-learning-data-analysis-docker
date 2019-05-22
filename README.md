@@ -8,6 +8,7 @@ Docker file provides:
 5. [pybrain](https://github.com/pybrain/pybrain)
 6. [jupiterlab](https://jupyterlab.readthedocs.io/en/stable/)
 
+## Usage
 
 Add 'python3', 'python2' directories of this repository to PATH variable.
 
