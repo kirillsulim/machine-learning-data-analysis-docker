@@ -8,9 +8,17 @@ Docker file provides:
 5. [pybrain](https://github.com/pybrain/pybrain)
 6. [jupiterlab](https://jupyterlab.readthedocs.io/en/stable/)
 
-Usage:  
 
 Add 'python3', 'python2' directories of this repository to PATH variable.
+
+Build docker image of jupiter notebook for python 3:
+```bash
+jupiter.sh build
+```
+Build docker image of jupiter notebook for python 2:
+```bash
+jupiter-python2.sh build
+```
 
 Run jupiter notebook using python 3:
 ```bash
